@@ -1,0 +1,15 @@
+/home/coder/csharp_project/bin/Debug/net6.0/csharp_project
+/home/coder/csharp_project/bin/Debug/net6.0/csharp_project.deps.json
+/home/coder/csharp_project/bin/Debug/net6.0/csharp_project.runtimeconfig.json
+/home/coder/csharp_project/bin/Debug/net6.0/csharp_project.dll
+/home/coder/csharp_project/bin/Debug/net6.0/csharp_project.pdb
+/home/coder/csharp_project/obj/Debug/net6.0/csharp_project.csproj.AssemblyReference.cache
+/home/coder/csharp_project/obj/Debug/net6.0/csharp_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/csharp_project/obj/Debug/net6.0/csharp_project.AssemblyInfoInputs.cache
+/home/coder/csharp_project/obj/Debug/net6.0/csharp_project.AssemblyInfo.cs
+/home/coder/csharp_project/obj/Debug/net6.0/csharp_project.csproj.CoreCompileInputs.cache
+/home/coder/csharp_project/obj/Debug/net6.0/csharp_project.dll
+/home/coder/csharp_project/obj/Debug/net6.0/refint/csharp_project.dll
+/home/coder/csharp_project/obj/Debug/net6.0/csharp_project.pdb
+/home/coder/csharp_project/obj/Debug/net6.0/csharp_project.genruntimeconfig.cache
+/home/coder/csharp_project/obj/Debug/net6.0/ref/csharp_project.dll
