@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mitchelldrohan/csharp/app/app.csproj": {}
+    "/home/coder/csharp_project/app/app.csproj": {}
   },
   "projects": {
-    "/Users/mitchelldrohan/csharp/app/app.csproj": {
+    "/home/coder/csharp_project/app/app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mitchelldrohan/csharp/app/app.csproj",
+        "projectUniqueName": "/home/coder/csharp_project/app/app.csproj",
         "projectName": "app",
-        "projectPath": "/Users/mitchelldrohan/csharp/app/app.csproj",
-        "packagesPath": "/Users/mitchelldrohan/.nuget/packages/",
-        "outputPath": "/Users/mitchelldrohan/csharp/app/obj/",
+        "projectPath": "/home/coder/csharp_project/app/app.csproj",
+        "packagesPath": "/home/coder/.nuget/packages/",
+        "outputPath": "/home/coder/csharp_project/app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mitchelldrohan/.nuget/NuGet/NuGet.Config"
+          "/home/coder/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/6.0.104_1/libexec/sdk/6.0.104/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
