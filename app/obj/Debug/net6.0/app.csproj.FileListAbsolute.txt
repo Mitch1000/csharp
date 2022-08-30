@@ -1,0 +1,15 @@
+/Users/mitchelldrohan/csharp/app/bin/Debug/net6.0/app
+/Users/mitchelldrohan/csharp/app/bin/Debug/net6.0/app.deps.json
+/Users/mitchelldrohan/csharp/app/bin/Debug/net6.0/app.runtimeconfig.json
+/Users/mitchelldrohan/csharp/app/bin/Debug/net6.0/app.dll
+/Users/mitchelldrohan/csharp/app/bin/Debug/net6.0/ref/app.dll
+/Users/mitchelldrohan/csharp/app/bin/Debug/net6.0/app.pdb
+/Users/mitchelldrohan/csharp/app/obj/Debug/net6.0/app.csproj.AssemblyReference.cache
+/Users/mitchelldrohan/csharp/app/obj/Debug/net6.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitchelldrohan/csharp/app/obj/Debug/net6.0/app.AssemblyInfoInputs.cache
+/Users/mitchelldrohan/csharp/app/obj/Debug/net6.0/app.AssemblyInfo.cs
+/Users/mitchelldrohan/csharp/app/obj/Debug/net6.0/app.csproj.CoreCompileInputs.cache
+/Users/mitchelldrohan/csharp/app/obj/Debug/net6.0/app.dll
+/Users/mitchelldrohan/csharp/app/obj/Debug/net6.0/ref/app.dll
+/Users/mitchelldrohan/csharp/app/obj/Debug/net6.0/app.pdb
+/Users/mitchelldrohan/csharp/app/obj/Debug/net6.0/app.genruntimeconfig.cache
